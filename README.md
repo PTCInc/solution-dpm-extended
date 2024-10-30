@@ -1,5 +1,3 @@
-# Template project for creating GitHub published Solutions
-
 # Disclaimer
 
 To broaden collaboration and facilitate the adoption and expansion of customer solutions, PTC is sharing several field-developed IoT components. 
